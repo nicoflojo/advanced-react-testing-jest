@@ -1,2 +1,8 @@
 # advanced-react-testing-jest
-advanced react testing with Jest
+
+React/Redux testing boilerplate using:
+
+- jest
+- axios
+- moxios
+- enzyme
